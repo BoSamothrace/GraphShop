@@ -2,7 +2,7 @@
 This is the dataset, code and our pre-trained parameters of GraphShop.
 
 ## Dataset
-GraphShop dataset could be download from: https://www.dropbox.com/s/lktbhmdkt9n4e3e/data.tar.gz?dl=0 
+GraphShop dataset could be download from: https://www.dropbox.com/s/lktbhmdkt9n4e3e/data.tar.gz?dl=0  
 Detail explanation about this dataset will be prepared soon.
 
 ## Code and pre-trained parameters
