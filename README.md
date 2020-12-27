@@ -1,7 +1,12 @@
 # GraphShop
-GraphShop dataset could be download from: https://www.dropbox.com/s/lktbhmdkt9n4e3e/data.tar.gz?dl=0
+This is the dataset, code and our pre-trained parameters of GraphShop.
 
+## Dataset
+GraphShop dataset could be download from: https://www.dropbox.com/s/lktbhmdkt9n4e3e/data.tar.gz?dl=0 
 Detail explanation about this dataset will be prepared soon.
+
+## Code and pre-trained parameters
+Detail explanation about how to use our code will be prepared soon.
 
 ## explaination about different models 
 GNN59GPU pair-based approach + type-based approach + distance-based approach  
